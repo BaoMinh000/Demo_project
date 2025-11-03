@@ -5,4 +5,6 @@ WebIMG :https://baominh000.github.io/FE/
 
 
 # Lar App (Demo)
-👉 Tải ứng dụng: [Lar_app.apk](https://github.com/BaoMinh000/Demo_project/blob/main/Lar_app.apk)
+<a href="https://baominh000.github.io/FE/Lar_app.apk" download>👉 Tải ứng dụng Lar_app.apk</a>
+
+
