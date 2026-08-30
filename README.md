@@ -6,3 +6,5 @@ WebIMG :https://baominh000.github.io/FE/
 <a href="https://github.com/BaoMinh000/Demo_project/raw/main/LAR.apk" download>
   👉 Tải ứng dụng Lar_app.apk
 </a>
+
+Web ôn từ vựng: https://baominh000.github.io/Japanese_learning_app/
