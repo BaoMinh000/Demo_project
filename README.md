@@ -1,4 +1,6 @@
 # Link-web
+Web ôn từ vựng: https://baominh000.github.io/Japanese_learning_app/
+
 
 WebIMG :https://baominh000.github.io/FE/
 ![Screenshot_5-2-2025_9819_baominh000](Screenshot_5-2-2025_9819_baominh000.github.io.jpeg)
@@ -7,4 +9,3 @@ WebIMG :https://baominh000.github.io/FE/
   👉 Tải ứng dụng Lar_app.apk
 </a>
 
-Web ôn từ vựng: https://baominh000.github.io/Japanese_learning_app/
